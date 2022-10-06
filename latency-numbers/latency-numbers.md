@@ -17,5 +17,5 @@
 | `TCP packet round trip between continents`  | 150,000,000  |  150  |
 
 Source:
-1. [About the author](Jeffrey Dean)
-2. [https://static.googleusercontent.com/media/sre.google/en//static/pdf/rule-of-thumb-latency-numbers-letter.pdf](Google user content pdf)
+1. [About the author](https://research.google/people/jeff/)
+2. [Google user content pdf](https://static.googleusercontent.com/media/sre.google/en//static/pdf/rule-of-thumb-latency-numbers-letter.pdf)
