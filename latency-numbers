@@ -1,9 +1,0 @@
-
-| Operation  | Time in ns | Time in ms (1ms=1,000,000 ns)
-| ------------- | ------------- |
-| `L1 cache reference`  | 1  |
-| `Branch misprediction`  | 3  |
-| `L2 cache reference`  | 4  |
-| `Mutex lock unclock`  | 17  |
-
-
